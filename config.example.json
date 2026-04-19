@@ -1,0 +1,11 @@
+{
+  "app_id": "你的飞书 App ID",
+  "app_secret": "你的飞书 App Secret",
+  "llm_provider": "zhipu",
+  "llm_api_key": "你的 LLM API Key",
+  "llm_model": "glm-4.5-air",
+  "llm_base_url": "https://open.bigmodel.cn/api/paas/v4",
+  "base_token": "你的多维表格 Base Token",
+  "table_id": "你的多维表格 Table ID",
+  "attachment_field_id": "可选，附件字段 ID（留空则自动检测）"
+}
