@@ -245,6 +245,9 @@ home-storage/
 ├── setup.sh              # 一键初始化脚本
 ├── config.example.json   # 配置模板
 ├── system-prompt.txt     # LLM 语义识别提示词
+├── assets/               # 二维码图片
+│   ├── 公众号二维码.jpg
+│   └── 个人微信.jpg
 ├── .gitignore            # 安全（排除凭证和数据）
 └── README.md             # 就是你在看的这个文件
 ```
@@ -306,6 +309,12 @@ MIT
 
 ---
 
-__作者__: 胡九思
-__公众号__: 九思AI歪博
-__GitHub__: [asiyoua/home-storage](https://github.com/asiyoua/home-storage)
+__作者__: 胡九思 | __公众号__: 九思AI歪博 | __GitHub__: [asiyoua/home-storage](https://github.com/asiyoua/home-storage)
+
+<div align="center">
+  <img src="assets/公众号二维码.jpg" width="200" alt="公众号：九思AI歪博" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/个人微信.jpg" width="200" alt="个人微信" />
+  <br/>
+  <sub>公众号：九思AI歪博 &nbsp;&nbsp;|&nbsp;&nbsp; 个人微信</sub>
+</div>
